@@ -4,7 +4,7 @@
 */
 function article_list_block_info() {
 $blocks['article_list'] = array(
-'info' => t('Article list'),
+'info' => t('Geekhub: Article list'),
 'cache' => DRUPAL_NO_CACHE,
 );
 return $blocks;

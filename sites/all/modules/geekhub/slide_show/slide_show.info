@@ -1,5 +1,5 @@
-name = Article list
-description = Create list of articles
+name = Slide show
+description = Slide show
 package = Geekhub
 dependencies[] = block
 
